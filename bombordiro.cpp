@@ -6,6 +6,7 @@ int main()
     cin >> a >> b;
     c = a + b;
     cout << c;
+    cout << " sashka ";
     return 0;
 }
 
