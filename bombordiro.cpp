@@ -7,6 +7,7 @@ int main()
     c = a + b;
     cout << c;
     cout << " sashka ";
+    cout << " arturik ";
     return 0;
 }
 
